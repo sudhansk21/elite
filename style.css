@@ -11,6 +11,6 @@ body{
     align-items: center;
 }
 footer .navbar .container .collapse ul li a:hover{
-    background-color: blue;
+    background-color: rgb(175, 175, 255);
     color: white;
 }
